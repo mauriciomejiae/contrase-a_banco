@@ -1,0 +1,5 @@
+C:\Users\Mauricio M\Downloads\contraseña_banco\contraseña_banco\bin\Debug\contraseña_banco.exe.config
+C:\Users\Mauricio M\Downloads\contraseña_banco\contraseña_banco\bin\Debug\contraseña_banco.exe
+C:\Users\Mauricio M\Downloads\contraseña_banco\contraseña_banco\bin\Debug\contraseña_banco.pdb
+C:\Users\Mauricio M\Downloads\contraseña_banco\contraseña_banco\obj\Debug\contraseña_banco.exe
+C:\Users\Mauricio M\Downloads\contraseña_banco\contraseña_banco\obj\Debug\contraseña_banco.pdb
